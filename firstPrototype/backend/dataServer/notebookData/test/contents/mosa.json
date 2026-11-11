@@ -1,0 +1,32 @@
+{
+    "pageType": "free",
+    "tags": [],
+    "files": [],
+    "UUID": "2a7ce56f-e275-4426-b243-2d696141a583",
+    "createDate": "2025/12/18",
+    "updateDate": "2025/12/18",
+    "pageData": {
+        "items": [
+            {
+                "data": "aaaaa \u3053\u3093\u306b\u3061\u306f\n\n",
+                "ID": "352f5fba-0883-4bdb-a64d-b64f8a3f47aa",
+                "type": "text",
+                "position": {
+                    "x": 953,
+                    "y": 322,
+                    "z": 1
+                },
+                "size": {
+                    "height": 218,
+                    "width": 257
+                },
+                "color": {
+                    "a": 1,
+                    "b": 100,
+                    "g": 100,
+                    "r": 100
+                }
+            }
+        ]
+    }
+}

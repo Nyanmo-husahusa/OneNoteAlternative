@@ -30,3 +30,8 @@ async def receiveLoop(websocket,callback):
             await callback(message,websocket)
         except ConnectionClosedOK:
             break
+        except Exception as error:
+            print("There is non-expected error ocurred. but this error may not be critical for this server functionality.")
+            import traceback
+            traceback.print_exception(error)
+            break 
